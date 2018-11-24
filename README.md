@@ -3,12 +3,12 @@
 Nesse repositório estão os códigos de implentações dos principais algoritmos da discipliana Cálculo Numérico, ministrada na graduação em Ciência e Tecnologia (BICT), UFMA.
 
 Estão divididos nos seguintes tópicos:
-### Zeros de funções
-..* Método da bissecção
-..* Método da falsa posição
-..* Método do ponto fixo
-..* Método de Newton-Raphson
-..* Método da secante
+1. Zeros de funções
+* Método da bissecção
+* Método da falsa posição
+* Método do ponto fixo
+* Método de Newton-Raphson
+* Método da secante
 
 ### Métodos de fatoração
 ..* Eliminação gaussiana
