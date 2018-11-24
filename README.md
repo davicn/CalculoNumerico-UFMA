@@ -1,6 +1,6 @@
 # Cálculo Numérico - Python
 
-Nesse repositório estão os códigos de implentações dos principais algoritmos da discipliana Cálculo Numérico, ministrada na graduação em Ciência e Tecnologia (BICT), UFMA.
+Nesse repositório estão os códigos de implentações dos principais algoritmos da disciplina de Cálculo Numérico, ministrada na graduação em Ciência e Tecnologia (BICT), UFMA.
 
 Estão divididos nos seguintes tópicos:
 1. Zeros de funções
