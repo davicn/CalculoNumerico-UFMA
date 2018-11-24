@@ -1,4 +1,4 @@
-# Cálculo Numérico-Python
+# Cálculo Numérico - Python
 
 Nesse repositório estão os códigos de implentações dos principais algoritmos da discipliana Cálculo Numérico, ministrada na graduação em Ciência e Tecnologia (BICT), UFMA.
 
@@ -10,16 +10,16 @@ Estão divididos nos seguintes tópicos:
 * Método de Newton-Raphson
 * Método da secante
 
-### Métodos de fatoração
-..* Eliminação gaussiana
-..* Pivotamento parcial
-..* Fatoração LU
-..* Fatoração de Cholesky
-..* Fatoração LDL
+2. Métodos de fatoração
+* Eliminação gaussiana
+* Pivotamento parcial
+* Fatoração LU
+* Fatoração de Cholesky
+* Fatoração LDL
 
-### Resolução de sistemas
-..* Retrosubstituição
-..* Método de Gauss-Jacobi
-..* Método de Gauss-Seidel 
+3. Resolução de sistemas
+* Retrosubstituição
+* Método de Gauss-Jacobi
+* Método de Gauss-Seidel 
 
 
