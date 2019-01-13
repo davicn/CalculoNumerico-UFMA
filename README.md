@@ -12,7 +12,6 @@ Estão divididos nos seguintes tópicos:
 
 2. Métodos de fatoração
 * Eliminação gaussiana
-* Pivotamento parcial
 * Fatoração LU
 * Fatoração de Cholesky
 * Fatoração LDL
